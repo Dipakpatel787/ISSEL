@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ISSEL.UI/obj
+/ISSEL.UI/bin/Debug/net6.0
+/ISSEL.Services/obj
+/ISSEL.Services/bin/Debug/net6.0
+/ISSEL.Models/obj
+/ISSEL.Models/bin/Debug/net6.0
+/ISSEL.DataAccess/obj
+/ISSEL.DataAccess/bin/Debug/net6.0
+/ISSEL/obj
+/ISSEL/bin/Debug/net6.0
